@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<SubTexture name="BF HEY!!0000" x="0" y="0" width="354" height="370" frameX="0" frameY="0" frameWidth="354" frameHeight="370"/>
+	<SubTexture name="BF HEY!!0001" x="362" y="0" width="374" height="365" frameX="0" frameY="0" frameWidth="374" frameHeight="365"/>
+	<SubTexture name="BF HEY!!0002" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0003" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0004" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0005" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0006" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0007" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0008" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0009" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0010" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0011" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0012" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0013" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0014" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0015" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0016" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0017" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0018" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0019" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0020" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0021" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0022" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0023" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0024" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF HEY!!0025" x="744" y="0" width="374" height="367" frameX="0" frameY="0" frameWidth="374" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0000" x="1126" y="0" width="367" height="349" frameX="-1" frameY="-20" frameWidth="367" frameHeight="349"/>
+	<SubTexture name="BF idle dance white0001" x="1126" y="0" width="367" height="349" frameX="-1" frameY="-20" frameWidth="367" frameHeight="349"/>
+	<SubTexture name="BF idle dance white0002" x="1501" y="0" width="369" height="350" frameX="0" frameY="-19" frameWidth="369" frameHeight="350"/>
+	<SubTexture name="BF idle dance white0003" x="1501" y="0" width="369" height="350" frameX="0" frameY="-19" frameWidth="369" frameHeight="350"/>
+	<SubTexture name="BF idle dance white0004" x="1878" y="0" width="367" height="355" frameX="-3" frameY="-14" frameWidth="367" frameHeight="355"/>
+	<SubTexture name="BF idle dance white0005" x="1878" y="0" width="367" height="355" frameX="-3" frameY="-14" frameWidth="367" frameHeight="355"/>
+	<SubTexture name="BF idle dance white0006" x="2253" y="0" width="370" height="366" frameX="-1" frameY="-1" frameWidth="370" frameHeight="366"/>
+	<SubTexture name="BF idle dance white0007" x="2253" y="0" width="370" height="366" frameX="-1" frameY="-1" frameWidth="370" frameHeight="366"/>
+	<SubTexture name="BF idle dance white0008" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0009" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0010" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0011" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0012" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="BF idle dance white0013" x="2631" y="0" width="369" height="367" frameX="-2" frameY="0" frameWidth="369" frameHeight="367"/>
+	<SubTexture name="Slavya story icon0000" x="35" y="425" width="244" height="293" frameX="0" frameY="0" frameWidth="244" frameHeight="293"/>
+	<SubTexture name="Slavya story icon0001" x="35" y="425" width="244" height="293" frameX="0" frameY="0" frameWidth="244" frameHeight="293"/>
+	<SubTexture name="Slavya story icon0002" x="35" y="425" width="244" height="293" frameX="0" frameY="0" frameWidth="244" frameHeight="293"/>
+	<SubTexture name="Slavya story icon0003" x="35" y="425" width="244" height="293" frameX="0" frameY="0" frameWidth="244" frameHeight="293"/>
+	<SubTexture name="Slavya story icon0004" x="289" y="434" width="233" height="275" frameX="0" frameY="0" frameWidth="233" frameHeight="275"/>
+	<SubTexture name="Slavya story icon0005" x="289" y="434" width="233" height="275" frameX="0" frameY="0" frameWidth="233" frameHeight="275"/>
+	<SubTexture name="Slavya story icon0006" x="289" y="434" width="233" height="275" frameX="0" frameY="0" frameWidth="233" frameHeight="275"/>
+	<SubTexture name="Slavya story icon0007" x="289" y="434" width="233" height="275" frameX="0" frameY="0" frameWidth="233" frameHeight="275"/>
+	<SubTexture name="Lena story icon0000" x="570" y="473" width="228" height="195" frameX="0" frameY="0" frameWidth="228" frameHeight="195"/>
+	<SubTexture name="Lena story icon0001" x="570" y="473" width="228" height="195" frameX="0" frameY="0" frameWidth="228" frameHeight="195"/>
+	<SubTexture name="Lena story icon0002" x="570" y="473" width="228" height="195" frameX="0" frameY="0" frameWidth="228" frameHeight="195"/>
+	<SubTexture name="Lena story icon0003" x="570" y="473" width="228" height="195" frameX="0" frameY="0" frameWidth="228" frameHeight="195"/>
+	<SubTexture name="Lena story icon0004" x="802" y="469" width="226" height="199" frameX="0" frameY="0" frameWidth="226" frameHeight="199"/>
+	<SubTexture name="Lena story icon0005" x="802" y="469" width="226" height="199" frameX="0" frameY="0" frameWidth="226" frameHeight="199"/>
+	<SubTexture name="Lena story icon0006" x="802" y="469" width="226" height="199" frameX="0" frameY="0" frameWidth="226" frameHeight="199"/>
+	<SubTexture name="Lena story icon0007" x="802" y="469" width="226" height="199" frameX="0" frameY="0" frameWidth="226" frameHeight="199"/>
+	<SubTexture name="Ulya story icon0000" x="1043" y="445" width="235" height="223" frameX="0" frameY="0" frameWidth="235" frameHeight="223"/>
+	<SubTexture name="Ulya story icon0001" x="1043" y="445" width="235" height="223" frameX="0" frameY="0" frameWidth="235" frameHeight="223"/>
+	<SubTexture name="Ulya story icon0002" x="1043" y="445" width="235" height="223" frameX="0" frameY="0" frameWidth="235" frameHeight="223"/>
+	<SubTexture name="Ulya story icon0003" x="1043" y="445" width="235" height="223" frameX="0" frameY="0" frameWidth="235" frameHeight="223"/>
+	<SubTexture name="Ulya story icon0004" x="1282" y="446" width="234" height="219" frameX="0" frameY="0" frameWidth="234" frameHeight="219"/>
+	<SubTexture name="Ulya story icon0005" x="1282" y="446" width="234" height="219" frameX="0" frameY="0" frameWidth="234" frameHeight="219"/>
+	<SubTexture name="Ulya story icon0006" x="1282" y="446" width="234" height="219" frameX="0" frameY="0" frameWidth="234" frameHeight="219"/>
+	<SubTexture name="Ulya story icon0007" x="1282" y="446" width="234" height="219" frameX="0" frameY="0" frameWidth="234" frameHeight="219"/>
+	<SubTexture name="Dvach story icon0000" x="1539" y="386" width="291" height="342" frameX="0" frameY="0" frameWidth="291" frameHeight="342"/>
+	<SubTexture name="Dvach story icon0001" x="1539" y="386" width="291" height="342" frameX="0" frameY="0" frameWidth="291" frameHeight="342"/>
+	<SubTexture name="Dvach story icon0002" x="1539" y="386" width="291" height="342" frameX="0" frameY="0" frameWidth="291" frameHeight="342"/>
+	<SubTexture name="Dvach story icon0003" x="1539" y="386" width="291" height="342" frameX="0" frameY="0" frameWidth="291" frameHeight="342"/>
+	<SubTexture name="Dvach story icon0004" x="1848" y="398" width="302" height="332" frameX="0" frameY="0" frameWidth="302" frameHeight="332"/>
+	<SubTexture name="Dvach story icon0005" x="1848" y="398" width="302" height="332" frameX="0" frameY="0" frameWidth="302" frameHeight="332"/>
+	<SubTexture name="Dvach story icon0006" x="1848" y="398" width="302" height="332" frameX="0" frameY="0" frameWidth="302" frameHeight="332"/>
+	<SubTexture name="Dvach story icon0007" x="1848" y="398" width="302" height="332" frameX="0" frameY="0" frameWidth="302" frameHeight="332"/>
+	<SubTexture name="Pioneers story icon0000" x="2191" y="421" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+	<SubTexture name="Pioneers story icon0001" x="2191" y="421" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+	<SubTexture name="Pioneers story icon0002" x="2191" y="421" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+	<SubTexture name="Pioneers story icon0003" x="2191" y="421" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+	<SubTexture name="Pioneers story icon0004" x="2567" y="416" width="298" height="195" frameX="0" frameY="0" frameWidth="298" frameHeight="195"/>
+	<SubTexture name="Pioneers story icon0005" x="2567" y="416" width="298" height="195" frameX="0" frameY="0" frameWidth="298" frameHeight="195"/>
+	<SubTexture name="Pioneers story icon0006" x="2357" y="634" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+	<SubTexture name="Pioneers story icon0007" x="2357" y="634" width="298" height="197" frameX="0" frameY="0" frameWidth="298" frameHeight="197"/>
+</TextureAtlas>

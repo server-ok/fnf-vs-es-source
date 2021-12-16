@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evillena.png">
+	<!-- Not created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pico Down Note0000" x="966" y="657" width="370" height="599" frameX="0" frameY="0" frameWidth="370" frameHeight="599"/>
+	<SubTexture name="Pico Down Note0001" x="1358" y="655" width="365" height="597" frameX="0" frameY="0" frameWidth="365" frameHeight="597"/>
+	<SubTexture name="Pico Idle Dance0000" x="10" y="8" width="338" height="602" frameX="0" frameY="0" frameWidth="338" frameHeight="602"/>
+	<SubTexture name="Pico Idle Dance0001" x="412" y="9" width="339" height="591" frameX="0" frameY="0" frameWidth="339" frameHeight="591"/>
+	<SubTexture name="Pico Idle Dance0002" x="785" y="19" width="338" height="588" frameX="0" frameY="0" frameWidth="338" frameHeight="588"/>
+	<SubTexture name="Pico Idle Dance0003" x="1150" y="9" width="339" height="591" frameX="0" frameY="0" frameWidth="339" frameHeight="591"/>
+	<SubTexture name="Pico Idle Dance0004" x="1547" y="10" width="338" height="602" frameX="0" frameY="0" frameWidth="338" frameHeight="602"/>
+	<SubTexture name="Pico Idle Dance0005" x="1942" y="10" width="336" height="602" frameX="0" frameY="0" frameWidth="336" frameHeight="602"/>
+	<SubTexture name="Pico Idle Dance0006" x="2337" y="9" width="342" height="601" frameX="0" frameY="0" frameWidth="342" frameHeight="601"/>
+	<SubTexture name="Pico Idle Dance0007" x="2715" y="8" width="342" height="599" frameX="0" frameY="0" frameWidth="342" frameHeight="599"/>
+	<SubTexture name="Pico NOTE LEFT0000" x="19" y="671" width="378" height="551"/>
+	<SubTexture name="Pico NOTE LEFT0001" x="433" y="681" width="380" height="549"/>
+	<SubTexture name="Pico Note Right0000" x="2783" y="699" width="352" height="589"/>
+	<SubTexture name="Pico Note Right0001" x="3171" y="703" width="349" height="585"/>
+	<SubTexture name="pico Up note0000" x="1818" y="685" width="338" height="566"/>
+	<SubTexture name="pico Up note0001" x="1818" y="685" width="338" height="566"/>
+</TextureAtlas>
